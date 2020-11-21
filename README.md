@@ -11,3 +11,8 @@
 ## Mixture Density Network
 
 - [MDN](https://zhuanlan.zhihu.com/p/37992239), 可以用来处理多值函数
+
+## Domain adaptation
+
+- [Domain-Adversarial Training](https://zhuanlan.zhihu.com/p/51499968)
+
