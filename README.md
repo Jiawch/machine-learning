@@ -7,3 +7,7 @@
 ## TTS
 
 - [TTS](https://zhuanlan.zhihu.com/p/45517433)
+
+## Mixture Density Network
+
+- [MDN](https://zhuanlan.zhihu.com/p/37992239)
