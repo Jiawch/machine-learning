@@ -10,4 +10,4 @@
 
 ## Mixture Density Network
 
-- [MDN](https://zhuanlan.zhihu.com/p/37992239)
+- [MDN](https://zhuanlan.zhihu.com/p/37992239), 可以用来处理多值函数
