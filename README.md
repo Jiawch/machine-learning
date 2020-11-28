@@ -16,3 +16,6 @@
 
 - [Domain-Adversarial Training](https://zhuanlan.zhihu.com/p/51499968)
 
+## SI-SDR，SI-SNR Loss
+
+- [si-sdr](https://github.com/pfnet-research/meta-tasnet/blob/30eba9663445226f5de251297007b94e4f3b1ebc/utility/loss.py#L5)
