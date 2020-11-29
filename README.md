@@ -19,3 +19,8 @@
 ## SI-SDR，SI-SNR Loss
 
 - [si-sdr](https://github.com/pfnet-research/meta-tasnet/blob/30eba9663445226f5de251297007b94e4f3b1ebc/utility/loss.py#L5)
+
+## 语音数据增强算法汇总（附代码）
+
+- [语音数据增强算法汇总](https://blog.csdn.net/qq_36999834/article/details/109851965)
+
