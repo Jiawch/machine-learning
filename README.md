@@ -37,7 +37,16 @@
 
 - [最新人工智能领域SCI期刊查询及投稿分析系统](https://www.letpub.com.cn/index.php?page=journalapp&view=researchfield&fieldtag=251&firstletter=&currentpage=1#journallisttable)
 - [ccf rank](https://www.ccf.org.cn/Academic_Evaluation/AI/)
+- [国内外学术期刊常识大科普](https://mp.weixin.qq.com/s?__biz=MzU1Mjk0NjIzMw==&mid=2247484412&idx=1&sn=dd439058f23e1312234424b753effec6&scene=19#wechat_redirect)
 
 # Latex
 
 - [LaTeX公式编辑器](https://www.latexlive.com/##)
+
+# 雅思
+
+- [剑桥](http://top.zhan.com/ielts/read/review-185-0-1-3998746.html)
+
+# 李宏毅
+
+- [视频](http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLHLP20.html)
