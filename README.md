@@ -25,3 +25,7 @@
 - [语音数据增强算法汇总](https://blog.csdn.net/qq_36999834/article/details/109851965)
 - [github](https://github.com/zzpDapeng/speech_data_augment)
 
+## 唱歌相关
+
+- [midi 音符对应表](https://blog.csdn.net/claroja/article/details/104247327?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param)
+- 
