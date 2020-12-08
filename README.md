@@ -31,7 +31,7 @@
 
 - [midi 音符对应表](https://blog.csdn.net/claroja/article/details/104247327?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param)
 - [音高-频率](https://bideyuanli.com/声乐基础理论/音高)
-- []
+- [midi 2 hz](https://forum.pdpatchrepo.info/topic/4090/midi-to-hz-and-hz-to-midi-formulas)
 
 # SCI, ccf
 
