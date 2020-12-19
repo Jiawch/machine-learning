@@ -49,4 +49,5 @@
 
 # 李宏毅
 
-- [视频](http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLHLP20.html)
+- [DL](http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLHLP20.html)
+- [ML](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)
