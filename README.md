@@ -56,3 +56,11 @@
 
 - [函数快览](https://learnku.com/articles/45084)
 - [作图](https://zhuanlan.zhihu.com/p/198900624)
+
+# MFA
+
+- [汉语（普通话）的音素对齐](https://www.bilibili.com/read/cv6815691/)
+
+# WORLD
+
+- [语音合成系统之WORLD简介](https://zhuanlan.zhihu.com/p/76704615)
