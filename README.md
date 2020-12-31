@@ -51,3 +51,7 @@
 
 - [DL](http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLHLP20.html)
 - [ML](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)
+
+# librosa
+
+- [函数快览](https://learnku.com/articles/45084)
