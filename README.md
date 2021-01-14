@@ -64,3 +64,9 @@
 # WORLD
 
 - [语音合成系统之WORLD简介](https://zhuanlan.zhihu.com/p/76704615)
+
+# RNN-T
+
+[RNN-T pytorch 绑定](https://github.com/awni/transducer)  
+[espnet 要安装的 transducer ](https://github.com/HawkAaron/warp-transducer)  
+[基于 RNN Transducer 的 音素识别](https://github.com/HawkAaron/RNN-Transducer)
