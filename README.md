@@ -60,6 +60,8 @@
 # MFA
 
 - [汉语（普通话）的音素对齐](https://www.bilibili.com/read/cv6815691/)
+- [short version](http://www.cs.columbia.edu/~ecooper/tts/mfa.html)
+- [version 1.0.1](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases)
 
 # WORLD
 
@@ -70,3 +72,8 @@
 [RNN-T pytorch 绑定](https://github.com/awni/transducer)  
 [espnet 要安装的 transducer ](https://github.com/HawkAaron/warp-transducer)  
 [基于 RNN Transducer 的 音素识别](https://github.com/HawkAaron/RNN-Transducer)
+
+
+# torch.autograd.Function
+
+- [自动梯度](https://blog.csdn.net/tsq292978891/article/details/79364140)
