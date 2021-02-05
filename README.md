@@ -42,6 +42,8 @@
 # Latex
 
 - [LaTeX公式编辑器](https://www.latexlive.com/##)
+- [LaTeX图片位置固定](https://blog.csdn.net/zhuang19951231/article/details/79176298)
+- [LaTeX 各种命令，符号](https://www.cnblogs.com/bnuvincent/p/9550350.html)
 
 # 雅思
 
