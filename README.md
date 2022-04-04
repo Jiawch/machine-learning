@@ -81,3 +81,7 @@
 # torch.autograd.Function
 
 - [自动梯度](https://blog.csdn.net/tsq292978891/article/details/79364140)
+
+# Few Shot
+
+-[原理](https://www.zmonster.me/2019/12/08/few-shot-learning.html)
