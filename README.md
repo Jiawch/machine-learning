@@ -90,3 +90,7 @@
 
 - [MAS](https://blog.csdn.net/weixin_42262721/article/details/110457491)
 - [维特比算法](https://www.zhihu.com/question/20136144/answer/763021768)
+
+# Parallel tacotron 2
+
+- [learnable upsample layer](https://zhuanlan.zhihu.com/p/388926701)
