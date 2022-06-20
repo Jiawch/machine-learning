@@ -85,3 +85,8 @@
 # Few Shot
 
 -[原理](https://www.zmonster.me/2019/12/08/few-shot-learning.html)
+
+# MAS， 维特比算法
+
+- [MAS](https://blog.csdn.net/weixin_42262721/article/details/110457491)
+- [维特比算法](https://www.zhihu.com/question/20136144/answer/763021768)
