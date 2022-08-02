@@ -94,3 +94,11 @@
 # Parallel tacotron 2
 
 - [learnable upsample layer](https://zhuanlan.zhihu.com/p/388926701)
+
+————————————————————————————————
+# DL/ML 基础
+
+## 优化器
+> 从均值方差的角度思考
+- [SGD](https://www.cnblogs.com/guoyaohua/p/8542554.html)
+- [Momentum, RMSprop, Adam](https://zhuanlan.zhihu.com/p/43438597)
