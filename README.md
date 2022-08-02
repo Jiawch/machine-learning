@@ -102,3 +102,7 @@
 > 从均值方差的角度思考
 - [SGD](https://www.cnblogs.com/guoyaohua/p/8542554.html)
 - [Momentum, RMSprop, Adam](https://zhuanlan.zhihu.com/p/43438597)
+
+## 交叉熵损失vs.平方损失
+- [梯度](https://blog.csdn.net/efei7968/article/details/88724712)
+- MSE可能引导sigmoid/Softmax进入梯度平缓层，而对于交叉熵损失的求导与激活函数的导数无关。
