@@ -106,3 +106,11 @@
 ## 交叉熵损失vs.平方损失
 - [梯度](https://blog.csdn.net/efei7968/article/details/88724712)
 - MSE可能引导sigmoid/Softmax进入梯度平缓层，而对于交叉熵损失的求导与激活函数的导数无关。
+
+## 方差和偏差
+- [过拟合和欠拟合]
+- [强模型和弱模型]
+  - [bagging](https://cloud.tencent.com/developer/news/393218)
+  的基模型为强模型，最后投票决定（权值相同），并联训练
+  - [boosting](https://blog.csdn.net/whiteinblue/article/details/14518773)
+  的基模型为弱模型，最后投票决定（权值不同），串联训练
