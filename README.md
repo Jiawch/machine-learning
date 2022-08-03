@@ -111,6 +111,7 @@
 - [过拟合和欠拟合]
 - [强模型和弱模型]
   - [bagging](https://cloud.tencent.com/developer/news/393218)
-  的基模型为强模型，最后投票决定（权值相同），并联训练
+  的基模型为强模型，最后投票决定（权值相同），并联训练；
+  当强模型为决策树，则 bagging 进化为随即森林
   - [boosting](https://blog.csdn.net/whiteinblue/article/details/14518773)
   的基模型为弱模型，最后投票决定（权值不同），串联训练
