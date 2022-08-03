@@ -112,6 +112,7 @@
 - [强模型和弱模型]
   - [bagging](https://cloud.tencent.com/developer/news/393218)
   的基模型为强模型，最后投票决定（权值相同），并联训练；
-  当强模型为决策树，则 bagging 进化为随即森林
+  （当强模型为决策树，则 bagging 进化为随即森林）
   - [boosting](https://blog.csdn.net/whiteinblue/article/details/14518773)
   的基模型为弱模型，最后投票决定（权值不同），串联训练
+  （核心思想为根据上一次的分类结果，加权采样训练样本，训练下一个弱分类器，最后投票的时候，分类器中准确率高的被赋予较高的权重）
