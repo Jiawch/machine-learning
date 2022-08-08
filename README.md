@@ -120,3 +120,14 @@
 ## 为什么使用 SGD 不用 BGD
 - BGD 迭代慢
 - SGD 引入随机性，即使陷入局部最小，也有机会跳出来
+
+## [初始化](https://zhuanlan.zhihu.com/p/133835463)
+- pretrain
+- 随机初始化
+  - 高斯
+  - 均匀
+- 特别
+  - Xavier
+  - Kaiming
+  
+![](https://pic3.zhimg.com/80/v2-6302a7093b93e1376e54e95033c58086_1440w.jpg)
