@@ -65,7 +65,7 @@
 
 - [汉语（普通话）的音素对齐](https://www.bilibili.com/read/cv6815691/)
 - [short version](http://www.cs.columbia.edu/~ecooper/tts/mfa.html)
-- [version 1.0.1](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases)
+- [version 1.0.1](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v1.0.1)
 
 # WORLD
 
