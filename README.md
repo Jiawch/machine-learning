@@ -131,3 +131,7 @@
   - Kaiming
   
 ![](https://pic3.zhimg.com/80/v2-6302a7093b93e1376e54e95033c58086_1440w.jpg)
+
+## 音频格式转换
+- [批量修改wav文件的采样率](https://blog.csdn.net/chenxieyy/article/details/51506766)
+- [批量转换32bit wav为16bit](https://blog.csdn.net/zmlovelx/article/details/80263018)
